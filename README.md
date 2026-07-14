@@ -483,6 +483,7 @@ Software packages sorted by Gitub Stars.
 
 ### Spatial transcriptomics
 
+- [AESTETIK](https://github.com/ratschlab/aestetik) - [Python] Representation learning for multi-modal spatially resolved transcriptomics data. manuscript: [Representation learning for multi-modal spatially resolved transcriptomics data](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btag316/8692433).
 - [BayesSpace](https://github.com/edward130603/BayesSpace) - [R] A Bayesian statistical model for clustering and resolution enhancement of spatial gene expression experiments. manuscript open access: [Spatial transcriptomics at subspot resolution with BayesSpace](https://www.nature.com/articles/s41587-021-00935-2)
 - [CellTrek](https://github.com/navinlabcode/CellTrek) - [R] CellTrek is a computational method to achieve single-cell spatial mapping through coembedding, random forest and metric learning approaches. manuscript open access: [Spatial charting of single-cell transcriptomes in tissues](https://www.nature.com/articles/s41587-022-01233-1)
 - [cell2location](https://github.com/BayraktarLab/cell2location) - [Python] A Bayesian model that perform spatial deconvolution in SRT data and create cellular maps of diverse tissues based on negative binomial distribution. manuscript open access: [Cell2location maps fine-grained cell types in spatial transcriptomics](https://www.nature.com/articles/s41587-021-01139-4)
