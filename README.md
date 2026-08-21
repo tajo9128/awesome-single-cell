@@ -179,6 +179,7 @@ Software packages sorted by Gitub Stars.
 - [VISION](https://www.biorxiv.org/content/early/2018/09/28/403055) - [] - A tool for annotating the sources of variation in single cell RNA-seq data in an automated, unbiased and scalable manner. It produces an interactive, low latency and feature rich web-based report that can be easily shared amongst researchers.
 - [zUMIs](https://github.com/sdparekh/zUMIs) - [R, perl, shell] - [zUMIs: A fast and flexible pipeline to process RNA-seq data with UMIs.](https://www.biorxiv.org/content/early/2017/10/18/153940)
 - [STAR](https://github.com/alexdobin/STAR) - [C/C++] - Splice-aware aligner for RNA-seq data, capable of mapping reads to a reference genome with high accuracy and speed.
+- [SCSPARKL](https://github.com/asif7adil/scSPARKL) - (Python/PySpark) - An Apache spark based approach for performing of preprocessing and downstream analysis of scRNA-seq data.
 
 ### Quality control
 
